@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<!-- Bootstrap basic framework to work on -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Bootstrap Basic Framework</title>
+	<!-- Bootstrap css included -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+	<!-- Bootstrap container class every code is to be included here -->
+	<div class="container">
+		<!-- Bootstrap code here -->
+		
+		
+		
+		
+	</div><!-- container div ends here -->	
+	<!-- Bootstrap javascript's plugins included -->
+	<script src="https://ajax.googleapis.com/jax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="js/jquery-1.11.2.min.js"></script>
+	<!-- Include all complied plugins -->
+	<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
