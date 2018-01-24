@@ -11,6 +11,6 @@ else {
 } 
  ?>
 
-Welcome to our WebSite...
+Hello $user,Welcome to our WebSite...
 
 <a href="logout.php" >Log out</a>
